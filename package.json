@@ -1,0 +1,11 @@
+{
+  "name": "apntester",
+  "version": "1.0.0",
+  "description": "Tester for APN",
+  "main": "index.js",
+  "author": "Elder Pereira <elderdosantos@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apn": "^2.1.5"
+  }
+}
